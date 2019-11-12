@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("img/bg2-01.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+	margin-left: 80px;
+}
+
+.container .navbar-brand {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+#navbarNavAltMarkup .btn {
+	margin-left: 60px;
+}
+
+.row .col-md .card {
+	margin-top: 250px;
+}
+
+.container .row {
+	padding-left: 250px;
+	padding-right: 100px;
+}
+
+.card img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card .btn-info {
+	display: block;
+}
